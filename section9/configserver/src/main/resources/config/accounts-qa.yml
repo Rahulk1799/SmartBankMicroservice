@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to SmartBank accounts related QA APIs "
+  contactDetails:
+    name: "John Powell - QA Lead"
+    email: "powell@smartbank.com"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 523-1345

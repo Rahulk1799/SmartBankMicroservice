@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to SmartBank loans related prod APIs "
+  contactDetails:
+    name: "Rahul Kumar - Product Owner"
+    email: "rahul@smartbank.com"
+  onCallSupport:
+    - (723) 656-8709
+    - (156) 342-0956

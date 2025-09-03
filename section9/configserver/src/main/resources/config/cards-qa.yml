@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to SmartBank cards related QA APIs "
+  contactDetails:
+    name: "Krishna Kumar - QA Lead"
+    email: "krishna@smartbank.com"
+  onCallSupport:
+    - (310) 875-4367
